@@ -2,7 +2,7 @@
 ||      Filename: Sum-Problem.c
 ||  
 ||  Description
-||	 Problem Description:
+||	 
 ||		Problem Description
 ||		Calculate A + B.
 ||		 
