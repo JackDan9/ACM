@@ -1,3 +1,6 @@
+#include <string>
+using std::string;
+
 class Solution {
     void longestPalindrome(const string& s, int b, int e, int &start, int &last) {
         int len = s.size();
