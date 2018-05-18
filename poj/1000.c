@@ -100,6 +100,7 @@
 ||      Author: JackDan9(https://www.github.com/JackDan9) J.Dan92016@gmail.com
 */
 #include<stdio.h>
+
 int main()
 {
     int a,b;
